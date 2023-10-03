@@ -1,0 +1,15 @@
+.strip{
+    min-height: 450px;
+    background: grey;
+    background-position: center;
+    background-size: cover;
+
+    display:flex;
+    align-items: center;
+    text-align: center;
+}
+.strip h1 {
+ color: rgb(236, 215, 97);
+ font-size: 84px;
+ text-shadow: 0 1px 0px #be3434, 1px 0 0px #be3434, 1px 2px 1px #be3434, 2px 1px 1px #be3434, 2px 3px 2px #be3434, 3px 2px 2px #be3434, 3px 4px 2px #be3434, 4px 3px 3px #be3434, 4px 5px 3px #be3434, 5px 4px 2px #be3434, 5px 6px 2px #be3434, 6px 5px 2px #be3434, 6px 7px 1px #be3434, 7px 6px 1px #be3434, 7px 8px 0px #be3434, 8px 7px 0px #be3434;
+}
